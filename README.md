@@ -1,16 +1,17 @@
-## Hi there 👋
+# Or Mizrahi
 
-<!--
-**OrMizL/OrMizL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer - BSc in Biomedical Engineering.
+Self-taught in JS/React. Interested in AI tooling and anything entrepreneurial.
 
-Here are some ideas to get you started:
+## Recently shipped
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SessionScribe** — Claude Code plugin for automated session logging · [repo](https://github.com/OrMizL/sessionscribe)
+- **Tagline** — AI changelog generator from git history · [repo](https://github.com/OrMizL/tagline)
+
+## Stack
+
+TypeScript · React · Node.js · Supabase · PostgreSQL · Claude API
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/ormiz)
