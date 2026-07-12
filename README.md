@@ -3,6 +3,8 @@
 Full-stack developer — BSc in Biomedical Engineering.
 Self-taught in JS/React. Building AI tooling and products.
 
+**→ [ormiz.dev](https://ormiz.dev)** — portfolio & résumé
+
 ## Portfolio
 
 | Project | What | Status |
